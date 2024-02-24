@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Magic-Me-jupyter/blob/main/Magic_Me_gradio_jupyter.ipynb) | Magic_Me_gradio_jupyter (Pro Colab 😭)
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://www.kaggle.com/camenduru/magic-me) | Magic_Me_gradio_jupyter (Free Kaggle)
 
 ### 🧬 Code
 https://github.com/Zhen-Dong/Magic-Me
