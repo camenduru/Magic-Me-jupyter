@@ -19,7 +19,8 @@ https://arxiv.org/abs/2402.09368
 https://magic-me-webpage.github.io/
 
 ### 🖼 Output
-![image](https://github.com/camenduru/Magic-Me-jupyter/assets/54370274/041ed36c-fcbd-41c1-9fc9-3934010d1839)
+
+https://github.com/camenduru/Magic-Me-jupyter/assets/54370274/0fa0601a-ddf7-415c-8b5d-b8aaa3bfaf63
 
 ### 🏢 Sponsor
 https://replicate.com
