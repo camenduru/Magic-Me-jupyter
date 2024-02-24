@@ -15,6 +15,9 @@ https://github.com/Zhen-Dong/Magic-Me
 ### 📄 Paper
 https://arxiv.org/abs/2402.09368
 
+### 🌐 Page
+https://magic-me-webpage.github.io/
+
 ### 🖼 Output
 ![image](https://github.com/camenduru/Magic-Me-jupyter/assets/54370274/041ed36c-fcbd-41c1-9fc9-3934010d1839)
 
